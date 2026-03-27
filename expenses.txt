@@ -1,0 +1,5 @@
+Food,400.0
+Travel,200.0
+Shopping,600.0
+Food,200.0
+Travel,150.0
